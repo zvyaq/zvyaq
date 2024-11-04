@@ -15,7 +15,7 @@ Welcome to my GitHub! I'm a passionate full-stack developer with experience in:
 ## 🛠️ Skills and Technologies
 
 ### Tools
-- **IDE**: IntelliJ IDEA, ~~ Visual Studio ~~ not this shit, VSCode, NVim, Emacs
+- **IDE**: IntelliJ IDEA, ~~Visual Studio~~ not this shit, VSCode, NVim, Emacs
 - **Version Control**: Git, GitHub
 - **Design**: Figma, Paper
 
